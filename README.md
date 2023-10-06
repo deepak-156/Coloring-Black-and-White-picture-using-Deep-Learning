@@ -1,0 +1,4 @@
+# Coloring-Black-and-White-picture-using-Deep-Learning
+Colorizing black and white pictures using deep learning involves training a model to automatically add color to grayscale images based on learned patterns and color data.
+<br>
+Coloring black-and-white pictures using Deep Learning involves training neural networks to automatically add color to grayscale images. This process leverages Convolutional Neural Networks (CNNs) and Generative Adversarial Networks (GANs) to learn patterns, textures, and color distributions from a vast dataset of colored images. The model then takes grayscale input and generates plausible colorizations by predicting pixel-level color values. This technology finds applications in restoring historical photos, enhancing visual content, and artistic creativity, enabling the transformation of monochrome images into vibrant, lifelike representations with remarkable realism and accuracy.
